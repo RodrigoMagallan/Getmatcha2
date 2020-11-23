@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(150deg, #ffffff, #99ff96, #1df128)
+}
+.sect__lbl {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1.4px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.logos_img{
+    display: flex;
+    align-items: center;
+    -webkit-box-align: center;
+    justify-content: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.logos_imgs{
+    margin-right: 60px;
+    display: inline-flex;
+}
+
+.logos
